@@ -8,6 +8,20 @@ Printed text, signs, and nearby objects are hard to interpret without sight. See
 
 The app captures a photo of the current view, sends it to a remote AI service for analysis, and speaks a short answer. Users can ask a question about the scene by voice, or switch to a reading mode that photographs a page, letter, sign, or label and reads the visible text. It is not a navigation or safety tool, and AI answers can be incomplete or wrong.
 
+## Screenshots
+
+Live chat
+
+![SeeAble live chat](assets/live-chat.png)
+
+Reading mode
+
+![SeeAble reading mode](assets/reading-mode.png)
+
+Settings
+
+![SeeAble settings](assets/settings.png)
+
 ## Key Features
 
 - Live questions about the current camera view, with a spoken answer

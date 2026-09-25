@@ -1,5 +1,7 @@
 # Assets
 
-Approved public screenshots and demonstration media may be added here later.
+Approved public screenshots:
 
-Do not copy files from the private SeeAble repository until they have been reviewed for personal information, user data, and other sensitive content.
+- `live-chat.png` — main live-chat screen
+- `reading-mode.png` — printed-text reading
+- `settings.png` — speech settings
